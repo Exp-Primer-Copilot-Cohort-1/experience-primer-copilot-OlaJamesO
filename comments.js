@@ -75,5 +75,3 @@ commentsRouter.route('/:commentId')
     })
     // POST
     .post(authenticate)
-
-
